@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"ReadProjectile",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ReadProjectile",
+  "parent":{
+    "name":"Read",
+    "path":"folders/Scripts/Read.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

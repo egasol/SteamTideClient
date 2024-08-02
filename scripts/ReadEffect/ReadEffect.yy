@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"ReadEffect",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ReadEffect",
+  "parent":{
+    "name":"Read",
+    "path":"folders/Scripts/Read.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
