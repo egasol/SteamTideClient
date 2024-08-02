@@ -1,4 +1,4 @@
-IP = "192.168.68.57";
+IP = "127.0.0.1";
 Port = 6510;
 
 var FileName, File;
